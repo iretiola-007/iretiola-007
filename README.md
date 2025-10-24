@@ -3,6 +3,7 @@
 
 [![CodePen Projects](https://img.shields.io/badge/CodePen-Projects-blue?logo=codepen)](https://codepen.io/_Rayof-light)
 
+[![Dev.to](https://img.shields.io/badge/dev.to-Profile-black?logo=dev.to)](https://dev.to/_ire)
 
 <!--
 **iretiola-007/iretiola-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
