@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Iretiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=iretiola-007&show_icons=true&theme=radical)
 
-[![CodePen Projects](https://img.shields.io/badge/CodePen-Projects-blue?logo=codepen)](https://codepen.io/_Rayof-light) [![Dev.to](https://img.shields.io/badge/dev.to-Profile-black?logo=dev.to)](https://dev.to/_ire) [![Medium Articles](https://img.shields.io/badge/Medium-Stories-pink?logo=medium)](https://medium.com/@abisigairetiola)
+[![CodePen Projects](https://img.shields.io/badge/CodePen-Projects-blue?logo=codepen)](https://codepen.io/_Rayof-light)   [![Dev.to](https://img.shields.io/badge/dev.to-Profile-black?logo=dev.to)](https://dev.to/_ire)   [![Medium Articles](https://img.shields.io/badge/Medium-Stories-pink?logo=medium)](https://medium.com/@abisigairetiola)
 
 <!--
 **iretiola-007/iretiola-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
