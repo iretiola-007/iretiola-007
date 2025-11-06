@@ -3,6 +3,12 @@
 ![](https://github-stats-alpha.vercel.app/api?username=iretiola-007&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 [![CodePen Projects](https://img.shields.io/badge/CodePen-Projects-blue?logo=codepen)](https://codepen.io/_Rayof-light)   [![Dev.to](https://img.shields.io/badge/dev.to-Profile-black?logo=dev.to)](https://dev.to/_ire)   [![Medium Articles](https://img.shields.io/badge/Medium-Stories-pink?logo=medium)](https://medium.com/@abisigairetiola)
 
+# 💻 Current Tech Stack:
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 <!--
 **iretiola-007/iretiola-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
