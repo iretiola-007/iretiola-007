@@ -11,7 +11,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=social&logo=php&logoColor=slategrey)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=social&logo=visual-studio-code&logoColor=slategrey)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=social&logo=apache&logoColor=slategrey)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=social&logo=windows11&logoColor=slategrey)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=social&logo=windows&logoColor=slategrey)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=slategrey)
 
 <!--
