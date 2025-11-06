@@ -13,6 +13,9 @@
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=social&logo=apache&logoColor=slategrey)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=social&logo=windows&logoColor=slategrey)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=social&logo=github&logoColor=slategrey)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=social&logo=codepen&logoColor=slategrey)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=social&logo=codecademy&logoColor=slategrey)
+![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=social&logo=edX&logoColor=slategrey)
 
 <!--
 **iretiola-007/iretiola-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
