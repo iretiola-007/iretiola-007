@@ -2,6 +2,8 @@
 
 ![](https://github-stats-alpha.vercel.app/api?username=iretiola-007&cc=22272e&tc=37BCF6&ic=fff&bc=0000) 
 
+<a href="https://app.daily.dev/iretiola_007"><img src="https://api.daily.dev/devcards/v2/9rYOBUW4HUSX2nXp6Q0mn.png?type=default&r=f50" width="356" alt="Iretiola's Dev Card"/></a>
+
 
 [![CodePen Projects](https://img.shields.io/badge/CodePen-Projects-blue?logo=codepen&style=for-the-badge)](https://codepen.io/_Rayof-light)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?logo=dev.to&style=for-the-badge)](https://dev.to/_ire)
