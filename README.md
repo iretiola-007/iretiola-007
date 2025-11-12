@@ -1,7 +1,7 @@
 ## Ciao 👋
 
-![](https://github-stats-alpha.vercel.app/api?username=iretiola-007&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
-[![CodePen Projects](https://img.shields.io/badge/CodePen-Projects-blue?logo=codepen)](https://codepen.io/_Rayof-light)   [![Dev.to](https://img.shields.io/badge/dev.to-Profile-black?logo=dev.to)](https://dev.to/_ire)   [![Medium Articles](https://img.shields.io/badge/Medium-Stories-pink?logo=medium)](https://medium.com/@abisigairetiola)
+![](https://github-stats-alpha.vercel.app/api?username=iretiola-007&cc=22272e&tc=37BCF6&ic=fff&bc=0000) 
+[![CodePen Projects](https://img.shields.io/badge/CodePen-Projects-blue?logo=codepen)](https://codepen.io/_Rayof-light)   [![Dev.to](https://img.shields.io/badge/dev.to-Profile-black?logo=dev.to)](https://dev.to/_ire)   [![Medium Articles](https://img.shields.io/badge/Medium-Stories-pink?logo=medium)](https://medium.com/@abisigairetiola) 
 
 # 💻 My Current Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&logoColor=slategrey)
