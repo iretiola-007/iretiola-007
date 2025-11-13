@@ -47,7 +47,9 @@ Welcome to my GitHub profile!
 ---
 
 📊 GitHub Stats
-![Github Contributions](https://img.shields.io/github/contributions/iretiola-007/year?label=Contributions&style=for-the-badge)
+
+
+![GitHub Contributions](https://img.shields.io/badge/GitHub%20Contributions-View%20Chart-blue?style=for-the-badge&logo=github)
 ![GitHub Followers](https://img.shields.io/github/followers/iretiola-007?label=Followers&style=for-the-badge)
 
 
