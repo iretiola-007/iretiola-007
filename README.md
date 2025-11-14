@@ -39,6 +39,7 @@ Welcome to my GitHub profile!
 
 🎓 Currently Learning With
 
+![Alison Certified](https://img.shields.io/badge/Alison-Certified-blue)
 [![Codecademy](https://img.shields.io/badge/Codecademy-Learning-1F243A?logo=codecademy&logoColor=white&style=for-the-badge)](https://www.codecademy.com/)
 [![edX](https://img.shields.io/badge/edX-Learning-02262B?logo=edx&logoColor=white&style=for-the-badge)](https://www.edx.org/)
 [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-Learning-14BF96?logo=khanacademy&logoColor=white&style=for-the-badge)](https://www.khanacademy.org/)
