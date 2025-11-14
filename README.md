@@ -30,7 +30,7 @@ Welcome to my GitHub profile!
 
 *Tools & Platforms:*
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)
 ![MSYS2](https://img.shields.io/badge/MSYS2-000000?style=for-the-badge)
 ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?logo=windows11&logoColor=white&style=for-the-badge)
@@ -39,7 +39,7 @@ Welcome to my GitHub profile!
 
 🎓 Currently Learning With
 
-![Alison Certified](https://img.shields.io/badge/Alison-Certified-%23007DBC?logo=alison&logoColor=white&style=for-the-badge)
+![Alison Certified](https://img.shields.io/badge/Alison-Certified-blue?logo=education&logoColor=white&style=for-the-badge)
 [![Codecademy](https://img.shields.io/badge/Codecademy-Learning-1F243A?logo=codecademy&logoColor=white&style=for-the-badge)](https://www.codecademy.com/)
 [![edX](https://img.shields.io/badge/edX-Learning-02262B?logo=edx&logoColor=white&style=for-the-badge)](https://www.edx.org/)
 [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-Learning-14BF96?logo=khanacademy&logoColor=white&style=for-the-badge)](https://www.khanacademy.org/)
