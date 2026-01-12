@@ -30,9 +30,7 @@ Welcome to my GitHub profile!
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-You can paste that anywhere in your `README.md`.  
-Let me know if you want different styles or logos (e.g. PostgreSQL, SQLite).
+---
 
 *Tools & Platforms:*
 
