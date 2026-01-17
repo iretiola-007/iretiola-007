@@ -54,7 +54,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=black)
 [![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=black)](https://git-scm.com/)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=black)(https://github.com/iretiola-007)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=black)](https://github.com/iretiola-007)
 ![MSYS2](https://img.shields.io/badge/MSYS2-000000?style=flat&logo=msys2&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=black)
