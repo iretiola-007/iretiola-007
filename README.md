@@ -69,6 +69,43 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 
 ---
 
+
+## 🌟 Featured Projects
+
+### 🧩 Bug Bounty Hunter
+**Interactive game focused on finding and fixing bugs**
+
+- 🛠 Built with: HTML, CSS, JavaScript
+- 🧠 Focus: Logic, debugging, problem-solving
+- 🚧 Status: Polishing & bug fixes
+
+🔗 [View Repository](https://github.com/iretiola-007/Bug-Bounty-Hunter)
+
+---
+
+### 🌐 Portfolio Website
+**Personal portfolio showcasing my projects and skills**
+
+- 🛠 Built with: HTML, CSS, JavaScript
+- ✨ Features: Responsive layout, clean UI
+- 📌 Purpose: Frontend practice & personal branding
+
+🔗 [View Repository](https://github.com/iretiola-007/my-portfolio)
+
+---
+
+### 🏎️ JavaScript Racing Game (WIP)
+**Imaginary restaurant's website**
+
+- 🛠 Built with: HTML, CSS, JavaScript
+- 🎮 Focus: Meal suggestions, moods
+- 🚧 Status: In progress
+
+🔗 [View Repository](https://github.com/iretiola-007/moodmeals)
+
+
+---
+
 ✨ *Thanks for stopping by! Feel free to explore my repositories and follow my learning journey.*
 
 
