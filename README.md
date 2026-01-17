@@ -100,7 +100,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 
 ---
 
-### 🏎️ JavaScript Racing Game (WIP)
+### 🍜 Mood Meals
 **Imaginary restaurant's website**
 
 - 🛠 Built with: HTML, CSS, JavaScript
