@@ -30,6 +30,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 [![CodePen](https://img.shields.io/badge/CodePen-Projects-000000?style=flat&logo=codepen&logoColor=black)](https://codepen.io/_Rayof-light)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat&logo=devdotto&logoColor=black)](https://dev.to/_ire)
 [![Medium](https://img.shields.io/badge/Medium-Stories-12100E?style=flat&logo=medium&logoColor=black)](https://medium.com/@abisigairetiola)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=black)](https://wa.me/2349129460510)
 
 ---
 
@@ -52,6 +53,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 ### ðŸ”§ Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=black)
+[![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=black)](https://git-scm.com/)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=black)
 ![MSYS2](https://img.shields.io/badge/MSYS2-000000?style=flat&logo=msys2&logoColor=black)
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows11&logoColor=black)
