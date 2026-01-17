@@ -1,5 +1,9 @@
 ## 👋🏻 Ciao! I'm Iretiola
 
+![](https://github-stats-alpha.vercel.app/api?username=iretiola-007&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+
+![](https://api.daily.dev/devcards/v2/9rYOBUW4HUSX2nXp6Q0mn.png?type=default&r=f50)
+
 🚀 **Aspiring Full-Stack Developer** | 💻 Web Enthusiast | 🧠 Problem Solver  
 
 I’m a passionate developer who enjoys building things for the web and learning how systems work under the hood.  
