@@ -63,7 +63,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 
 ## ðŸŽ“ Currently Learning With
 
-![Alison](https://img.shields.io/badge/Alison-Learning-2D7FF9?style=flat&logo=alison&logoColor=black)
+![Alison](https://img.shields.io/badge/Alison-Certified-2D7FF9?style=flat&logo=alison&logoColor=black)
 [![Codecademy](https://img.shields.io/badge/Codecademy-Learning-1F243A?style=flat&logo=codecademy&logoColor=black)](https://www.codecademy.com/)
 [![edX](https://img.shields.io/badge/edX-Learning-02262B?style=flat&logo=edx&logoColor=black)](https://www.edx.org/)
 [![Khan Academy](https://img.shields.io/badge/Khan_Academy-Learning-14BF96?style=flat&logo=khanacademy&logoColor=black)](https://www.khanacademy.org/)
