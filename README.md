@@ -114,7 +114,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 
 ---
 
-✨ *Thanks for stopping by! Feel free to explore my repositories and follow my learning journey.*
+✨ *Thanks for stopping by! Feel free to explore my repositories and follow my learning journey here and on my <a href="https://whatsapp.com/channel/0029VbC33ZGInlqKyZQMBY42">WhatsApp channel</a>.*
 
 
 
