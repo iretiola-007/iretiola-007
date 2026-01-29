@@ -32,6 +32,8 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 [![CodePen](https://img.shields.io/badge/CodePen-Projects-000000?style=flat&logo=codepen&logoColor=black)](https://codepen.io/_Rayof-light)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-0A0A0A?style=flat&logo=devdotto&logoColor=black)](https://dev.to/_ire)
 [![Medium](https://img.shields.io/badge/Medium-Stories-12100E?style=flat&logo=medium&logoColor=black)](https://medium.com/@abisigairetiola)
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@iretiola-007)](https://medium.com/@iretiola-007)
+[![Gmail Badge](https://img.shields.io/badge/-abisigairetiola@gmail.com-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:abisigairetiola@gmail.com)](mailto:abisigairetiola@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=black)](https://wa.me/2349129460510)
 
 ---
@@ -82,9 +84,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 
 ## More Stats
 
-[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@iretiola-007)](https://medium.com/@iretiola-007)
 <!-- [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks) -->
-[![Gmail Badge](https://img.shields.io/badge/-abisigairetiola@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abisigairetiola@gmail.com)](mailto:abisigairetiola@gmail.com)
 
 ---
 
