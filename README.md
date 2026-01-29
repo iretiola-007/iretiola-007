@@ -76,6 +76,15 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iretiola-007&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iretiola-007&theme=tokyonight)
+[![GitHub followers](https://img.shields.io/github/followers/iretiola-007?label=Follow&style=social)](https://github.com/iretiola-007/?tab=follow)
+
+---
+
+## More Stats
+
+[![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@iretiola-007)](https://medium.com/@iretiola-007)
+<!-- [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks) -->
+[![Gmail Badge](https://img.shields.io/badge/-abisigairetiola@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abisigairetiola@gmail.com)](mailto:abisigairetiola@gmail.com)
 
 ---
 
