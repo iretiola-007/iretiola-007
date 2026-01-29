@@ -82,9 +82,9 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 
 ---
 
-## More Stats
+<!-- ## More Stats
 
-<!-- [![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks) -->
+[![DEV Badge](https://img.shields.io/badge/-DEV-c14438?style=social&logo=Dev.to&logoColor=black&link=https://dev.to/ashleymavericks)](https://dev.to/ashleymavericks) -->
 
 ---
 
