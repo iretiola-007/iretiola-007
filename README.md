@@ -80,6 +80,8 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iretiola-007&theme=tokyonight)
 [![GitHub followers](https://img.shields.io/github/followers/iretiola-007?label=Follow&style=social)](https://github.com/iretiola-007/?tab=follow)
 
+![Profile Views](https://komarev.com/ghpvc/?username=iretiola-007&style=flat-square)
+
 ---
 
 <!-- ## More Stats
