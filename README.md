@@ -8,7 +8,7 @@
 
 ---
 
-🚀 **Aspiring Full-Stack Developer** | 💻 Web Enthusiast | 🧠 Problem Solver  
+🚀 **Aspiring Full-Stack Developer** | 💻 **Web Enthusiast** | 🧠 **Problem Solver**  
 
 I’m a passionate developer who enjoys building things for the web and learning how systems work under the hood.  
 I’m currently focused on **web development**, improving my **JavaScript & Python skills**, and gradually transitioning into **full-stack engineering** using **Flask**.
