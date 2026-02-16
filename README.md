@@ -49,7 +49,6 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=black)
-
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=black)
 
 ---
