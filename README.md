@@ -45,6 +45,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=black)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=black)](https://www.djangoproject.com/)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=black)
