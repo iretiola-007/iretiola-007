@@ -78,6 +78,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iretiola-007&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iretiola-007&theme=tokyonight)
 [![GitHub followers](https://img.shields.io/github/followers/iretiola-007?label=Follow&style=social)](https://github.com/iretiola-007/?tab=follow)
+[![committers.top badge](https://user-badge.committers.top/nigeria/iretiola-007.svg)](iretiola-007)
 
 ![Visitors](https://komarev.com/ghpvc/?username=iretiola-007&color=blue&style=flat-square)
 
