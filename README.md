@@ -23,7 +23,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 - 🧩 I enjoy debugging, logic games, and problem-solving
 - 📚 Always learning — one bug at a time
 - ✨ Building in public and improving consistently
-
+- 日本語 I understand a lil' bit of Japanese 😉
 ---
 
 ## 🌐 Find Me Around the Web
