@@ -74,7 +74,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 ---
 
 ## ðŸ“Š GitHub Stats
-
+[![Iretiola's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iretiola-007&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/iretiola-007/github-readme-activity-graph)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iretiola-007&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iretiola-007&theme=tokyonight)
 [![GitHub followers](https://img.shields.io/github/followers/iretiola-007?label=Follow&style=social)](https://github.com/iretiola-007/?tab=follow)
