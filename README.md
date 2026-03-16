@@ -103,6 +103,19 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 
 ## 🌟 Featured Projects
 
+### 🍜 Kyvera
+**Multilingual Programming Language**
+
+- 🛠 Built with: Python
+- 🎮 Focus: Experimental project
+- 🚧 Status: In progress
+
+🔗 [View Repository](https://github.com/iretiola-007/kyvera)
+
+
+---
+
+
 ### 🧩 Bug Bounty Hunter
 **Interactive game focused on finding and fixing bugs**
 
@@ -125,17 +138,6 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 
 ---
 
-### 🍜 Mood Meals
-**Imaginary restaurant's website**
-
-- 🛠 Built with: HTML, CSS, JavaScript
-- 🎮 Focus: Meal suggestions, moods
-- 🚧 Status: In progress
-
-🔗 [View Repository](https://github.com/iretiola-007/moodmeals)
-
-
----
 
 ✨ *Thanks for stopping by! Feel free to explore my repositories and follow my learning journey here and on my <a href="https://whatsapp.com/channel/0029VbC33ZGInlqKyZQMBY42">WhatsApp channel</a>.*
 
