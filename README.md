@@ -101,7 +101,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 
 ## 🌟 Featured Projects
 
-### 🍜 Kyvera
+### 💻 Kyvera
 **Multilingual Programming Language**
 
 - 🛠 Built with: Python
