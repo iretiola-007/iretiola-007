@@ -3,7 +3,7 @@
 
 ![](https://github-stats-alpha.vercel.app/api?username=iretiola-007&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
 
-![](https://api.daily.dev/devcards/v2/9rYOBUW4HUSX2nXp6Q0mn.png?type=default&r=f50)
+<!-- ![](https://api.daily.dev/devcards/v2/9rYOBUW4HUSX2nXp6Q0mn.png?type=default&r=f50) -->
 
 ---
 
