@@ -78,7 +78,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 
 <details>
 <summary>Click for GitHub Stats</summary>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iretiola-007&layout=compact&theme=tokyonight&hide_border=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iretiola-007&layout=compact&theme=tokyonight&hide_border=true) -->
 
 [![Iretiola's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iretiola-007&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/iretiola-007/github-readme-activity-graph)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iretiola-007&show_icons=true&theme=tokyonight)
