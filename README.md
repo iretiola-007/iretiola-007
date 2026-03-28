@@ -133,6 +133,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 - 📌 Purpose: Frontend practice & personal branding
 
 🔗 [View Repository](https://github.com/iretiola-007/my-portfolio)
+![Visit portfolio site](https://iretiola.vercel.app/)
 
 ---
 
