@@ -34,6 +34,9 @@ I enjoy learning by **building projects**, breaking things (then fixing them ðŸ˜
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=flat&logo=Medium&logoColor=black&link=https://medium.com/@iretiola-007)](https://medium.com/@iretiola-007)
 [![Gmail Badge](https://img.shields.io/badge/-abisigairetiola@gmail.com-c14438?style=flat&logo=Gmail&logoColor=red&link=mailto:abisigairetiola@gmail.com)](mailto:abisigairetiola@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=black)](https://wa.me/2349129460510)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iretiola_007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishat-abisiga-746a673a6)
+![Discord](https://img.shields.io/badge/Discord-iretiola_007_91185-%235865F2?style=for-the-badge&logo=discord&logoColor=grey)
 
 ---
 
