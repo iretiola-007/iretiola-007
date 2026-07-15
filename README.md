@@ -22,7 +22,7 @@ I enjoy learning by **building projects**, breaking things (then fixing them �
 - 🔭 Currently working on small web projects & experiments  
 - 🌐 Interested in **Frontend + Backend development**
 - 🧩 I enjoy debugging, logic games, and problem-solving
-- 📚 Always learning — one bug at a time
+- 📚 Always learning - one bug at a time
 - ✨ Building in public and improving consistently
 - 日本語 I understand a lil' bit of Japanese 😉
 ---
